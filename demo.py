@@ -6,3 +6,6 @@
 # @File: demo.py
 # 用来打草稿的
 
+num = 1234
+
+print(num // 10)
